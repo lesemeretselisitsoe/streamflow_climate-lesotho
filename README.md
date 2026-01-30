@@ -1,4 +1,4 @@
-# streamflow_climate-lesotho
+# monthly_streamflow_forecasting_lesotho
 Datasets and Jupter notebooks for MSc dissertation on forecasting streamflow in Lesotho
 # Streamflow and Climate Change in Lesotho
 
