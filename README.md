@@ -1,6 +1,6 @@
-# monthly_streamflow_forecasting_lesotho
+# streamflow_forecasting_lesotho
 Datasets and Jupter notebooks for MSc dissertation on forecasting streamflow in Lesotho
-# Streamflow and Climate Change in Lesotho
+# monthly_Streamflow_forecating_in_the_Malibamats'o_river_basin 
 
 This repository contains datasets and Jupyter notebooks supporting the MSc dissertation:
 
